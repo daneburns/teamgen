@@ -20,3 +20,5 @@ Just run it in node!
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ![userimage](https://avatars0.githubusercontent.com/u/8218186?v=4)
+
+![userimage](./teamgen.gif)
